@@ -1,4 +1,3 @@
-package src;
 
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.params.*;
